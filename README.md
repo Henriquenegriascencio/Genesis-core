@@ -1,5 +1,6 @@
 <h1>Genesis Core</h1>
 Um emulador web exclusivamente para sega genesis (mega drive), onde você pode pegar a _sua_ rom e ler no site para você jogar direto no navegador
+<p></p>
 <P>Observações:</p> 
 <P>não tem como salvar os jogos,</p> 
 <p>use o save state como um arquivo local que o site consegue criar,</p> 
